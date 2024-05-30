@@ -1,0 +1,7 @@
+id = "intellij-newui-theme"
+name = "JetBrains New UI Theme"
+description = "A Zed theme based on the JetBrains IntelliJ \"New UI\" colors (default Dark theme only)."
+version = "0.0.1"
+schema_version = 1
+authors = ["Kenny Pitt <kenny@pittcrew.org>"]
+repository = "https://github.com/kpitt/zed-theme-intellij-newui"
