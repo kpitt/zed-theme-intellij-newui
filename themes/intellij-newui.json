@@ -166,43 +166,43 @@
         "players": [
           {
             "cursor": "#256DF9ff",
-            "background": "#256DF9ff" /*unused*/,
+            "background": "#214283ff" /*unused*/,
             "selection": "#256DF973"
           },
-          /*not set*/ {
-            "cursor": "#bf41bfff",
-            "background": "#bf41bfff" /*unused*/,
-            "selection": "#bf41bf3d"
+          {
+            "cursor": "#5FAD65ff",
+            "background": "#375239ff" /*unused*/,
+            "selection": "#5FAD6566"
           },
-          /*not set*/ {
-            "cursor": "#aa563bff",
-            "background": "#aa563bff" /*unused*/,
-            "selection": "#aa563b3d"
+          {
+            "cursor": "#DB5C5Cff",
+            "background": "#5E3838ff" /*unused*/,
+            "selection": "#DB5C5C66"
           },
-          /*not set*/ {
-            "cursor": "#955ae6ff",
-            "background": "#955ae6ff" /*unused*/,
-            "selection": "#955ae63d"
+          {
+            "cursor": "#A571E6ff",
+            "background": "#583D7Aff" /*unused*/,
+            "selection": "#A571E666"
           },
-          /*not set*/ {
-            "cursor": "#3a8bc6ff",
-            "background": "#3a8bc6ff" /*unused*/,
-            "selection": "#3a8bc63d"
+          {
+            "cursor": "#E08855ff",
+            "background": "#614438ff" /*unused*/,
+            "selection": "#E0885566"
           },
-          /*not set*/ {
-            "cursor": "#be4677ff",
-            "background": "#be4677ff" /*unused*/,
-            "selection": "#be46773d"
+          {
+            "cursor": "#24A394ff",
+            "background": "#1E4D4Aff" /*unused*/,
+            "selection": "#24A39466"
           },
-          /*not set*/ {
-            "cursor": "#a06d3aff",
-            "background": "#a06d3aff" /*unused*/,
-            "selection": "#a06d3a3d"
+          {
+            "cursor": "#D6AE58ff",
+            "background": "#5E4D33ff" /*unused*/,
+            "selection": "#D6AE5866"
           },
-          /*not set*/ {
-            "cursor": "#2b9292ff",
-            "background": "#2b9292ff" /*unused*/,
-            "selection": "#2b92923d"
+          {
+            "cursor": "#DC98DFff",
+            "background": "#604467ff" /*unused*/,
+            "selection": "#DC98DF66"
           }
         ],
         "syntax": {
