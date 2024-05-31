@@ -73,6 +73,8 @@
         "editor.invisible": "#6F737Aff",
         "editor.wrap_guide": "#2B2D30ff",
         "editor.active_wrap_guide": "#393B40FF",
+        "editor.indent_guide": "#313438ff",
+        "editor.indent_guide_active": "#666870FF",
         "editor.document_highlight.read_background": "#373B39ff",
         "editor.document_highlight.write_background": "#402F33ff",
 
