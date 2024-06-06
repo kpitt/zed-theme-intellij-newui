@@ -209,8 +209,8 @@
           }
         ],
         "syntax": {
-          "attribute": /*not set*/ {
-            "color": "#566ddaff",
+          "attribute": {
+            "color": "#D5B778ff",
             "font_style": null,
             "font_weight": null
           },
