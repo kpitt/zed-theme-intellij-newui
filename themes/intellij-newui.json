@@ -34,7 +34,7 @@
         "ghost_element.selected": "#43454Aff",
         "ghost_element.disabled": "#221f26ff" /*not set*/,
 
-        "text": "#BCBEC4ff",
+        "text": "#DFE1E5ff",
         "text.muted": "#9DA0A8ff",
         "text.placeholder": "#5A5D63ff",
         "text.disabled": "#5A5D63ff",
@@ -80,8 +80,9 @@
 
         "terminal.background": "#1E1F22ff",
         "terminal.foreground": "#BCBEC4ff" /*unused*/,
-        "terminal.bright_foreground": "#DFE1E5ff",
-        "terminal.dim_foreground": "#19171cff" /*not set*/,
+        // "terminal.bright_foreground": "#DFE1E5ff" /* for use with "terminal.foreground" */,
+        "terminal.bright_foreground": "#FFFFFFff" /* for "text" as terminal foreground */,
+        "terminal.dim_foreground": "#9DA0A8ff",
         "terminal.ansi.black": "#000000ff",
         "terminal.ansi.bright_black": "#595959ff",
         "terminal.ansi.dim_black": "#424242ff",
