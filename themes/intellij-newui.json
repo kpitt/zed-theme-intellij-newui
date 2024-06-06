@@ -12,10 +12,10 @@
 
         "border": "#393B40ff",
         "border.variant": "#43454Aff",
-        "border.focused": "#222953ff" /*not set*/,
-        "border.selected": "#222953ff" /*not set*/,
+        "border.focused": "#214283ff",
+        "border.selected": "#4E5157ff" /*unused*/,
         "border.transparent": "#00000000",
-        "border.disabled": "#48434fff" /*not set*/,
+        "border.disabled": "#393B40ff",
 
         "elevated_surface.background": "#2B2D30ff",
         "surface.background": "#2B2D30ff",
@@ -40,11 +40,11 @@
         "text.disabled": "#5A5D63ff",
         "text.accent": "#6B9BFAff",
 
-        "icon": "#efecf4ff" /*not set*/,
-        "icon.muted": "#898591ff" /*unused*/ /*not set*/,
+        "icon": "#BCBEC4ff",
+        "icon.muted": "#868A91ff" /*unused*/,
         "icon.disabled": "#5A5D63ff" /*unused*/,
         "icon.placeholder": "#5A5D63ff" /*unused*/,
-        "icon.accent": "#6B9BFAff" /*unused*/,
+        "icon.accent": "#6B9BFAff",
 
         "status_bar.background": "#2B2D30ff",
         "title_bar.background": "#2B2D30ff",
