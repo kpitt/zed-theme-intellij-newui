@@ -1,9 +1,9 @@
 # JetBrains New UI Themes for [Zed](https://zed.dev/)
 
 <p align="center">
-	<a href="https://github.com/kpitt/zed-theme-intellij-newui/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/kpitt/zed-theme-intellij-newui?style=for-the-badge"></a>
-	<a href="https://github.com/kpitt/zed-theme-intellij-newui/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/kpitt/zed-theme-intellij-newui?style=for-the-badge"></a>
-	<a href="https://github.com/kpitt/zed-theme-intellij-newui/contributors"><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/kpitt/zed-theme-intellij-newui?style=for-the-badge"></a>
+	<a href="https://github.com/kpitt/zed-theme-intellij-newui/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/kpitt/zed-theme-intellij-newui?style=for-the-badge&labelColor=393B40&color=3574F0"></a>
+	<a href="https://github.com/kpitt/zed-theme-intellij-newui/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/kpitt/zed-theme-intellij-newui?style=for-the-badge&labelColor=393B40&color=BD5757"></a>
+	<a href="https://github.com/kpitt/zed-theme-intellij-newui/contributors"><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/kpitt/zed-theme-intellij-newui?style=for-the-badge&labelColor=393B40&color=24A394"></a>
 </p>
 
 This is a set of themes for the [Zed editor](https://zed.dev/) based on the UI colors and built-in themes from the "New UI" for the JetBrains IntelliJ platform.  Currently, only the new Dark theme is implemented.
@@ -32,5 +32,5 @@ This is a set of themes for the [Zed editor](https://zed.dev/) based on the UI c
 ---
 
 <p align="center">
-  <a href="https://github.com/kpitt/zed-theme-intellij-newui/blob/main/LICENSE.txt"><img alt="License" src="https://img.shields.io/github/license/kpitt/zed-theme-intellij-newui?style=for-the-badge"></a>
+  <a href="https://github.com/kpitt/zed-theme-intellij-newui/blob/main/LICENSE.txt"><img alt="License" src="https://img.shields.io/github/license/kpitt/zed-theme-intellij-newui?style=for-the-badge&labelColor=393B40&color=3574F0"></a>
 </p>
