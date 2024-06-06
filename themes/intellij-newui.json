@@ -111,8 +111,8 @@
         "link_text.hover": "#6B9BFAff",
 
         "conflict": "#DE6A66ff",
-        "conflict.background": "#231a12ff" /*unused v0.138.4*/ /*not set*/,
-        "conflict.border": "#392a19ff" /*unused v0.138.4*/ /*not set*/,
+        "conflict.background": "#512b29ff" /*unused v0.138.4*/,
+        "conflict.border": "#7b4542ff" /*unused v0.138.4*/,
 
         "created": "#73BD79ff",
         "created.background": "#436946ff" /*unused v0.138.4*/,
@@ -126,41 +126,41 @@
         "error.background": "#402929ff",
         "error.border": "#5A5D63ff",
 
-        "hidden": "#756f7eff" /*not set*/,
-        "hidden.background": "#3a353fff" /*unused v0.138.4*/ /*not set*/,
-        "hidden.border": "#48434fff" /*unused v0.138.4*/ /*not set*/,
+        "hidden": "#6F737Aff",
+        "hidden.background": "#2B2D30ff" /*unused v0.138.4*/,
+        "hidden.border": "#43454Aff" /*unused v0.138.4*/,
 
         "hint": "#5A5D63ff",
         "hint.background": "#2B2D30ff",
         "hint.border": "#5A5D63ff",
 
         "ignored": "#5A5D63ff",
-        "ignored.background": "#3a353fff" /*not set*/,
-        "ignored.border": "#56505eff" /*not set*/,
+        "ignored.background": "#2B2D30ff",
+        "ignored.border": "#393B40ff",
 
         "info": "#548AF7ff",
         "info.background": "#25324Dff",
         "info.border": "#5A5D63ff",
 
         "modified": "#70AEFFff",
-        "modified.background": "#385570ff" /*unused v0.138.4*/ /*not set*/,
-        "modified.border": "#43698Dff" /*unused v0.138.4*/ /*not set*/,
+        "modified.background": "#22426bff" /*unused v0.138.4*/,
+        "modified.border": "#38649dff" /*unused v0.138.4*/,
 
         "predictive": "#727782ff",
-        "predictive.background": "#132020ff" /*unused v0.138.4*/ /*not set*/,
-        "predictive.border": "#1a3333ff" /*unused v0.138.4*/ /*not set*/,
+        "predictive.background": "#2c2e34ff" /*unused v0.138.4*/,
+        "predictive.border": "#42464eff" /*unused v0.138.4*/,
 
         "renamed": "#70AEFFff" /*unused v0.138.4*/,
-        "renamed.background": "#161a35ff" /*unused v0.138.4*/ /*not set*/,
-        "renamed.border": "#222953ff" /*unused v0.138.4*/ /*not set*/,
+        "renamed.background": "#22426bff" /*unused v0.138.4*/,
+        "renamed.border": "#38649dff" /*unused v0.138.4*/,
 
         "success": "#42B1A4ff",
         "success.background": "#1D3838ff" /*unused v0.138.4*/,
         "success.border": "#1E4D4Aff" /*unused v0.138.4*/,
 
-        "unreachable": "#898591ff" /*unused v0.138.4*/ /*not set*/,
-        "unreachable.background": "#3a353fff" /*unused v0.138.4*/ /*not set*/,
-        "unreachable.border": "#56505eff" /*unused v0.138.4*/ /*not set*/,
+        "unreachable": "#6F737Aff" /*unused v0.138.4*/,
+        "unreachable.background": "#2B2D30ff" /*unused v0.138.4*/,
+        "unreachable.border": "#43454Aff" /*unused v0.138.4*/,
 
         "warning": "#F2C55Cff",
         "warning.background": "#565014ff",
