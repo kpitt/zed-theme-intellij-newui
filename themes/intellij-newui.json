@@ -19,7 +19,7 @@
 
         "elevated_surface.background": "#2B2D30ff",
         "surface.background": "#2B2D30ff",
-        "background": "#393B40ff",
+        "background": "#2B2D30ff",
 
         "element.background": "#5A5D634d",
         "element.hover": "#5A5D6366",
