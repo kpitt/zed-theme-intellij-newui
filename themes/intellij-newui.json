@@ -13,7 +13,7 @@
         "border": "#393B40ff",
         "border.variant": "#43454Aff",
         "border.focused": "#214283ff",
-        "border.selected": "#4E5157ff" /*unused*/,
+        "border.selected": "#4E5157ff" /*unused v0.138.4*/,
         "border.transparent": "#00000000",
         "border.disabled": "#393B40ff",
 
@@ -41,9 +41,9 @@
         "text.accent": "#6B9BFAff",
 
         "icon": "#BCBEC4ff",
-        "icon.muted": "#868A91ff" /*unused*/,
-        "icon.disabled": "#5A5D63ff" /*unused*/,
-        "icon.placeholder": "#5A5D63ff" /*unused*/,
+        "icon.muted": "#868A91ff" /*unused v0.138.4*/,
+        "icon.disabled": "#5A5D63ff" /*unused v0.138.4*/,
+        "icon.placeholder": "#5A5D63ff" /*unused v0.138.4*/,
         "icon.accent": "#6B9BFAff",
 
         "status_bar.background": "#2B2D30ff",
@@ -54,10 +54,10 @@
         "tab.active_background": "#1E1F22ff",
         "search.match_background": "#114957ff",
         "panel.background": "#2B2D30ff",
-        "panel.focused_border": null /*unused*/,
-        "pane.focused_border": null /*unused*/,
+        "panel.focused_border": null /*unused v0.138.4*/,
+        "pane.focused_border": null /*unused v0.138.4*/,
         "scrollbar.thumb.background": "#FFFFFF26",
-        "scrollbar.thumb.hover_background": "#FFFFFF4D" /*unused*/,
+        "scrollbar.thumb.hover_background": "#FFFFFF4D" /*unused v0.138.4*/,
         "scrollbar.thumb.border": "#404043ff",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#2B2D30ff",
@@ -79,7 +79,7 @@
         "editor.document_highlight.write_background": "#402F33ff",
 
         "terminal.background": "#1E1F22ff",
-        "terminal.foreground": "#BCBEC4ff" /*unused*/,
+        "terminal.foreground": "#BCBEC4ff" /*unused v0.138.4*/,
         // "terminal.bright_foreground": "#DFE1E5ff" /* for use with "terminal.foreground" */,
         "terminal.bright_foreground": "#FFFFFFff" /* for "text" as terminal foreground */,
         "terminal.dim_foreground": "#9DA0A8ff",
@@ -111,24 +111,24 @@
         "link_text.hover": "#6B9BFAff",
 
         "conflict": "#DE6A66ff",
-        "conflict.background": "#231a12ff" /*unused*/ /*not set*/,
-        "conflict.border": "#392a19ff" /*unused*/ /*not set*/,
+        "conflict.background": "#231a12ff" /*unused v0.138.4*/ /*not set*/,
+        "conflict.border": "#392a19ff" /*unused v0.138.4*/ /*not set*/,
 
         "created": "#73BD79ff",
-        "created.background": "#436946ff" /*unused*/,
-        "created.border": "#4E8052ff" /*unused*/,
+        "created.background": "#436946ff" /*unused v0.138.4*/,
+        "created.border": "#4E8052ff" /*unused v0.138.4*/,
 
         "deleted": "#6F737Aff",
-        "deleted.background": "#484A4Aff" /*unused*/,
-        "deleted.border": "#656E76ff" /*unused*/,
+        "deleted.background": "#484A4Aff" /*unused v0.138.4*/,
+        "deleted.border": "#656E76ff" /*unused v0.138.4*/,
 
         "error": "#DB5C5Cff",
         "error.background": "#402929ff",
         "error.border": "#5A5D63ff",
 
         "hidden": "#756f7eff" /*not set*/,
-        "hidden.background": "#3a353fff" /*unused*/ /*not set*/,
-        "hidden.border": "#48434fff" /*unused*/ /*not set*/,
+        "hidden.background": "#3a353fff" /*unused v0.138.4*/ /*not set*/,
+        "hidden.border": "#48434fff" /*unused v0.138.4*/ /*not set*/,
 
         "hint": "#5A5D63ff",
         "hint.background": "#2B2D30ff",
@@ -143,24 +143,24 @@
         "info.border": "#5A5D63ff",
 
         "modified": "#70AEFFff",
-        "modified.background": "#385570ff" /*unused*/ /*not set*/,
-        "modified.border": "#43698Dff" /*unused*/ /*not set*/,
+        "modified.background": "#385570ff" /*unused v0.138.4*/ /*not set*/,
+        "modified.border": "#43698Dff" /*unused v0.138.4*/ /*not set*/,
 
         "predictive": "#727782ff",
-        "predictive.background": "#132020ff" /*unused*/ /*not set*/,
-        "predictive.border": "#1a3333ff" /*unused*/ /*not set*/,
+        "predictive.background": "#132020ff" /*unused v0.138.4*/ /*not set*/,
+        "predictive.border": "#1a3333ff" /*unused v0.138.4*/ /*not set*/,
 
-        "renamed": "#70AEFFff" /*unused*/,
-        "renamed.background": "#161a35ff" /*unused*/ /*not set*/,
-        "renamed.border": "#222953ff" /*unused*/ /*not set*/,
+        "renamed": "#70AEFFff" /*unused v0.138.4*/,
+        "renamed.background": "#161a35ff" /*unused v0.138.4*/ /*not set*/,
+        "renamed.border": "#222953ff" /*unused v0.138.4*/ /*not set*/,
 
         "success": "#42B1A4ff",
-        "success.background": "#1D3838ff" /*unused*/,
-        "success.border": "#1E4D4Aff" /*unused*/,
+        "success.background": "#1D3838ff" /*unused v0.138.4*/,
+        "success.border": "#1E4D4Aff" /*unused v0.138.4*/,
 
-        "unreachable": "#898591ff" /*unused*/ /*not set*/,
-        "unreachable.background": "#3a353fff" /*unused*/ /*not set*/,
-        "unreachable.border": "#56505eff" /*unused*/ /*not set*/,
+        "unreachable": "#898591ff" /*unused v0.138.4*/ /*not set*/,
+        "unreachable.background": "#3a353fff" /*unused v0.138.4*/ /*not set*/,
+        "unreachable.border": "#56505eff" /*unused v0.138.4*/ /*not set*/,
 
         "warning": "#F2C55Cff",
         "warning.background": "#565014ff",
@@ -169,42 +169,42 @@
         "players": [
           {
             "cursor": "#256DF9ff",
-            "background": "#214283ff" /*unused*/,
+            "background": "#214283ff" /*unused v0.138.4*/,
             "selection": "#256DF973"
           },
           {
             "cursor": "#5FAD65ff",
-            "background": "#375239ff" /*unused*/,
+            "background": "#375239ff" /*unused v0.138.4*/,
             "selection": "#5FAD6566"
           },
           {
             "cursor": "#DB5C5Cff",
-            "background": "#5E3838ff" /*unused*/,
+            "background": "#5E3838ff" /*unused v0.138.4*/,
             "selection": "#DB5C5C66"
           },
           {
             "cursor": "#A571E6ff",
-            "background": "#583D7Aff" /*unused*/,
+            "background": "#583D7Aff" /*unused v0.138.4*/,
             "selection": "#A571E666"
           },
           {
             "cursor": "#E08855ff",
-            "background": "#614438ff" /*unused*/,
+            "background": "#614438ff" /*unused v0.138.4*/,
             "selection": "#E0885566"
           },
           {
             "cursor": "#24A394ff",
-            "background": "#1E4D4Aff" /*unused*/,
+            "background": "#1E4D4Aff" /*unused v0.138.4*/,
             "selection": "#24A39466"
           },
           {
             "cursor": "#D6AE58ff",
-            "background": "#5E4D33ff" /*unused*/,
+            "background": "#5E4D33ff" /*unused v0.138.4*/,
             "selection": "#D6AE5866"
           },
           {
             "cursor": "#DC98DFff",
-            "background": "#604467ff" /*unused*/,
+            "background": "#604467ff" /*unused v0.138.4*/,
             "selection": "#DC98DF66"
           }
         ],
