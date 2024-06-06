@@ -324,8 +324,8 @@
             "font_style": null,
             "font_weight": null
           },
-          "primary": /*not set*/ {
-            "color": "#e2dfe7ff",
+          "primary": {
+            "color": "#BCBEC4ff",
             "font_style": null,
             "font_weight": null
           },
