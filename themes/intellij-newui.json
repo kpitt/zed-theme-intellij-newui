@@ -21,11 +21,11 @@
         "surface.background": "#2B2D30ff",
         "background": "#393B40ff",
 
-        "element.background": "#221f26ff" /*not set*/,
-        "element.hover": "#332f38ff" /*not set*/,
-        "element.active": "#544f5cff" /*not set*/,
-        "element.selected": "#544f5cff" /*not set*/,
-        "element.disabled": "#221f26ff" /*not set*/,
+        "element.background": "#5A5D634d",
+        "element.hover": "#5A5D6366",
+        "element.active": "#5A5D6399",
+        "element.selected": "#5A5D6399",
+        "element.disabled": "#43454A4d",
 
         "drop_target.background": "#467FF280",
         "ghost_element.background": "#00000000",
