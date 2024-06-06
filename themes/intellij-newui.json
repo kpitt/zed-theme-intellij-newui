@@ -226,7 +226,7 @@
           },
           "comment.doc": {
             "color": "#5F826Bff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "constant": {
