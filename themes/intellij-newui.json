@@ -32,7 +32,7 @@
         "ghost_element.hover": "#393B40ff",
         "ghost_element.active": "#43454Aff",
         "ghost_element.selected": "#43454Aff",
-        "ghost_element.disabled": "#221f26ff" /*not set*/,
+        "ghost_element.disabled": "#393B4080",
 
         "text": "#DFE1E5ff",
         "text.muted": "#9DA0A8ff",
