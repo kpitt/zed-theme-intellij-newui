@@ -18,26 +18,23 @@ The Zed editor and its theme system are still evolving rapidly, so the behavior 
 
 ### Install via Zed Extensions
 
-(future: not yet published to Zed Extensions reposiory)
-
 1. Open Zed
-2. Press `cmd+shift+p` and select _zed: extensions_
-3. Select _JetBrains New UI Theme_ and Install
-4. Press `cmd+k` `cmd+t` and select _JetBrains New Dark_ in the theme picker
+2. Use the command palette (`zed: extensions`) or the `Zed > Extensions` menu item to open the Extensions view.
+3. Search for "JetBrains New UI Theme", then click `Install`.
 
 ### Install Manually
 
-1. Download the [intellij-newui.json](./themes/intellij-newui.json) theme file
-2. Put the theme file into `~/.config/zed/themes/`
+1. Download the [intellij-newui.json](./themes/intellij-newui.json) theme file.
+2. Put the theme file into your `~/.config/zed/themes/` directory.
 
-### Enable the Theme
+### Activate the Theme
 
-1. Press `cmd+k` `cmd+t`, or choose _Settings... > Select Theme..._ from the Zed menu
-2. Select _JetBrains New Dark_ in the theme picker
+1. Use `cmd-k cmd-t`, the command palette (`theme selector: toggle`), or the `Zed > Settings... > Select Theme...` menu item to open the theme selector.
+2. Select the "JetBrains New Dark" theme.
 
 ## Known Issues
 
-- Starting in Zed 0.137.2, there was a change that broke the ability to properly theme some of the UI buttons.  This affects the hover style most, but also changes some of the normal button backgrounds.  I opened [issue #12592](https://github.com/zed-industries/zed/issues/12592) in the Zed repository for the hover styling.
+- Starting in Zed 0.137.2, there was a change that broke the ability to properly theme some of the UI buttons.  This affects the hover style most, but also changes some of the normal button backgrounds.  I opened [Zed issue #12592](https://github.com/zed-industries/zed/issues/12592) for the hover styling.
 
 ---
 
