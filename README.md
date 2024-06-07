@@ -35,6 +35,10 @@ The Zed editor and its theme system are still evolving rapidly, so the behavior 
 1. Press `cmd+k` `cmd+t`, or choose _Settings... > Select Theme..._ from the Zed menu
 2. Select _JetBrains New Dark_ in the theme picker
 
+## Known Issues
+
+- Starting in Zed 0.137.2, there was a change that broke the ability to properly theme some of the UI buttons.  This affects the hover style most, but also changes some of the normal button backgrounds.  I opened [issue #12592](https://github.com/zed-industries/zed/issues/12592) in the Zed repository for the hover styling.
+
 ---
 
 <p align="center">
