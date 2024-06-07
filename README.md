@@ -6,7 +6,13 @@
 	<a href="https://github.com/kpitt/zed-theme-intellij-newui/contributors"><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/kpitt/zed-theme-intellij-newui?style=for-the-badge&labelColor=393B40&color=24A394"></a>
 </p>
 
-This is a set of themes for the [Zed editor](https://zed.dev/) based on the UI colors and built-in themes from the "New UI" for the JetBrains IntelliJ platform.  Currently, only the new Dark theme is implemented.
+This is a dark theme for the [Zed editor](https://zed.dev/) based on the UI theme and editor colors from the "New UI" for the JetBrains IntelliJ platform.  Currently, only the new "Dark" theme is implemented, but I plan to eventually add support for the "Light" and "Light with Light Header" themes as well.
+
+The colors used for syntax highlighting should be an exact match to IntelliJ. However, some elements won't be highlighted in exactly the same way due to differences in the syntax queries.
+
+The UI elements are a bit trickier, but I believe this comes close enough to at least be in the _spirit_ of the JetBrains New UI.  The Zed theme system is relatively new, and is still somewhat limited compared to the complexity of IntelliJ or even VSCode.  The documentation is also very minimal at this point, so determining which theme color controls a particular UI element, or finding all the different ways that a particular color might be used, still requires a lot of trial-and-error and searching of the Zed source code.
+
+The Zed editor and its theme system are still evolving rapidly, so the behavior of the theme colors could change at any time.  If you notice an unexpected change in the appearance after installing a Zed update, please [create a GitHub issue](https://github.com/kpitt/zed-theme-intellij-newui/issues/new/choose), preferably including screenshots of both the before and after appearance.
 
 ## Usage
 
