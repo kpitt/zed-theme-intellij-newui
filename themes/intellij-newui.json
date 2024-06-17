@@ -264,6 +264,18 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "escape": {
+            /* some languages use @escape instead of @string.escape */
+            "color": "#CF8E6Dff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "float": {
+            /* A few languages use @float instead of @number */
+            "color": "#2AACB8ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "function": {
             "color": "#56A8F5ff",
             "font_style": null,
@@ -274,7 +286,8 @@
             "font_style": null,
             "font_weight": null
           },
-          "function.special.definition": {
+          "function.special": {
+            /* Rust macro identifier */
             "color": "#FFC66Dff",
             "font_style": null,
             "font_weight": null
@@ -292,6 +305,12 @@
           "label": {
             "color": "#BCBEC4ff",
             "font_style": null,
+            "font_weight": null
+          },
+          "lifetime": {
+            /* Rust lifetime specifier */
+            "color": "#20999Dff",
+            "font_style": "italic",
             "font_weight": null
           },
           "link_text": {
